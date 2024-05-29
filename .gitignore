@@ -1,0 +1,4 @@
+*.ofx*
+*.txt
+venv
+!requirements.txt
