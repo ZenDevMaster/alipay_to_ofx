@@ -31,7 +31,7 @@ alipay_to_ofx is a Python application that converts Alipay transaction records i
     python3 -m venv venv
     ```
 
-Start the virtual environemnt:
+    Start the virtual environemnt:
 
     ```sh
     source venv/bin/activate
